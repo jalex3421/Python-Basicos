@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+
+int main(void){
+  printf("hola mundo, esto es una prueba\n");
+  return 0; 
+}
