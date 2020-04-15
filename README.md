@@ -1,2 +1,3 @@
-#Python-Basics
-just another internet stuff about the snake
+#Python-Basicos
+Simplemente otra introduccion de python
+(tutorial completo --> programacion ats)
