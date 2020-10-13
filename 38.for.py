@@ -11,7 +11,7 @@ for i in lista:
     #recorre elemento a elemento, los elementos de la coleccion
     print(f"el valor de la iteracion es: {i}")
 
-coleccion = {"Alejandro" : 20, "Nerea" : 21}
+coleccion = {"Alejandro" : 20, "Alex" : 21}
 for i in coleccion:
     print(f"La clave es:  {i}")
     print(f"El valor es: {coleccion[i]}")
